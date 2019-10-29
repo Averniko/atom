@@ -1,5 +1,7 @@
 dependencies {
     testCompile rootProject.libraries.junit
+    // https://mvnrepository.com/artifact/junit/junit
+    // testCompile group: 'junit', name: 'junit', version: '4.4'
 }
 
 sourceSets {

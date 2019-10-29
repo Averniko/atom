@@ -1,4 +1,4 @@
-package ru.atom;
+package ru.atom
 
 /**
  * In this assignment you need to implement the following util methods.
